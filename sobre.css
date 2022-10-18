@@ -1,0 +1,123 @@
+/* Atividade Individual*/
+
+/*h2{
+    width: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(211, 28, 28);
+    margin: 5px;
+    padding: 3px;
+
+}
+
+img{
+    width: 30%;
+    position: absolute;
+    display: inline-block;
+    width: 25%;
+    background-image:center;
+    border-radius: 4px;
+    left: ;
+}
+nav1{
+    display: inline-block;
+    margin: 0 0 0 0;
+    text-decoration:none;
+    background-color: red;
+    padding: 20px 22px 12px 22px;
+    color:#fff;
+    border: top width 0;*/
+
+div.logo {
+    border-radius: 10px 10px 10px 10px;
+    font-family:lobster:cursive;
+    font-size: 50%;
+}
+body{
+    background-color: rgb(190, 186, 186);
+}
+/*header{
+    background-color: rgb(112, 111, 110, 0.5);
+}*/
+.sobre-texto-longo {
+    font-family: Quicksand;
+    font-size: 1.3vw;
+    color: #000;
+    width: 100%;
+}
+.servicos-painel {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 1%;
+    font-size: 0;
+    line-height: 0;
+    word-spacing: 0;
+    border: 0;
+    align-self: center;
+    align-items: center;
+    gap: 2px;
+}
+.servicos {
+    margin: 0;
+    border-radius: 0;
+    border: 0;
+}
+.home-imagem-link {
+    padding-left: 20em;
+}
+.home-imagem-link img {
+    width: 25vw;
+    height: 18.05vw;
+}
+.sobre-nossos-servicos {
+    border: #000 1px;
+}
+.sobre-img{
+    width:100%;
+    float: right;
+    display: grid;
+}
+div.sobre{
+    width: 100%;
+  
+}
+.home-sobre {
+    width: 100%;
+    justify-content: space-around;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding:0;
+   
+}
+.mais-servicos-img {
+    width: 95%;
+    padding-left: 20px;
+}
+.home-fit-img {
+    width: 95%;
+    border-radius: 2%;
+}
+
+.mais-servicos-txt {
+    width: 100%;
+}
+.home-large-img {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sobreNewsletter {
+    padding: 2em 0;
+}
+.input-newsletter {
+    width: 50%;
+}
+.button-newsletter {
+    width: 30%;
+}
+.sobre-aside {
+    padding: 2em 0 0 0;
+}
